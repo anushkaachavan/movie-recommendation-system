@@ -11,11 +11,6 @@
 
 ## 🔗 Live Demo
 
-| Platform | Link |
-|----------|------|
-| 🚀 Streamlit Cloud | _[Add your deployed URL here]_ |
-| 📦 GitHub Repository | _[Add your repo URL here]_ |
-
 ---
 
 ## 📸 Screenshots
@@ -33,10 +28,7 @@ The frontend is a polished Streamlit app with a dark Netflix-style UI, hero bann
 ---
 
 ## 🏗️ Architecture
-
-
-
-
+![Architecture](Architecture.png)
 
 ## ⚙️ How It Works
 
