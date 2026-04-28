@@ -15,7 +15,8 @@
 
 ## 📸 Screenshots
 
-> _(Add screenshots of your app here once deployed)_
+![Screenshots](A1.png)
+![Screenshots](A2.png)
 
 ---
 
